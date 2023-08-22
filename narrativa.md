@@ -144,4 +144,5 @@ DESCRIÇÃO NARRATIVAigue
 12. Clique no botão azul;
 13. O pop-up anterior (Add local repository) aparecerá novamente, aperte no botão azul 'Add repository';
 14. Quando voltar para a página inicial do GitHub, escreva o título em 'Summary (required)' e a descrição em 'Description';
-15. Logo após, aperte no botão 'Commit to main'
+15. Logo após, aperte no botão 'Commit to main';
+16. Em seguida, clique em 'Publish'
