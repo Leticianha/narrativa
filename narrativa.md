@@ -1,81 +1,79 @@
-DESCRIÇÃO NARRATIVAigue
+DESCRIÇÕES NARRATIVAS
 
 – Faça uma descrição narrativa para trocar uma lâmpada.
 
-1. Se estiver ligada: 
-    2- Des no interruptor;
-2. Esperar esfriar alguns minutos, antes de troca-lá;
+1. Se estiver ligada:
+   - Desligue o interruptor;
+2. Espere esfriar alguns minutos antes de trocá-la;
 3. Pegue a nova lâmpada;
-4. Encontre um objeto (como: escada, cadeira) para subir em cima;
-5. Remova a lâmpada antiga;
-    - Girando no sentido anti-horário para desenroscá-la do soquete;
-6. Insire a nova lâmpada;
-    - Rosqueie a nova lâmpada no soquete no sentido horário até que esteja firme;
-7. Desça;
-8. Guarda o objeto que usou para subir;
-9. Descarte a lâmpada antiga;
-10. Ligue no interruptor, verificando se funciona. 
+4. Encontre um objeto (como escada ou cadeira) para subir em cima;
+5. Remova a lâmpada antiga:
+6. Gire no sentido anti-horário para desenroscá-la do soquete;
+7. Insira a nova lâmpada:
+8. Rosqueie a nova lâmpada no soquete no sentido horário até que esteja firme;
+9. Desça;
+10. Guarde o objeto que usou para subir;
+11. Descarte a lâmpada antiga;
+12. Ligue o interruptor, verificando se funciona.
 
 – Faça uma descrição narrativa para ir ao mercado.
 
-1. Se preparar para quando sair;
-2. Decide o que irá comprar;
-3. Abre a porta;
+1. Prepare-se antes de sair;
+2. Decida o que irá comprar;
+3. Abra a porta;
 4. Saia de casa;
-5. Tranca a porta;
-6. Destranque o carro;
-7. Entra no automóvel; 
-8. Tranca o veículo;
-9. Dirige até o centro de Ferraz perto da praça;
-10. Entre no estacionamento do mercado;
+5. Tranque a porta;
+6. Destrave o carro;
+7. Entre no automóvel;
+8. Tranque o veículo;
+9. Dirija até o centro de Ferraz, perto da praça;
+10. Estacione no estacionamento do mercado;
 11. Encontre uma vaga vazia;
-12. Estaciona o carro;
-13. Destranca o automóvel;
-14. Saia do mesmo;
-15. Tranca;
-16. Caminhe atpe a entrada do mercado.
+12. Estacione o carro;
+13. Destrave o automóvel;
+14. Saia do veículo;
+15. Tranque;
+16. aminhe até a entrada do mercado
 
 – Faça uma descrição narrativa para arrumar uma mala.
 
 1. Pegue os itens e peças pessoais;
 2. Deixe-os organizados e reservados em um canto;
-3. Vá ao local em que está a mala;
+3. Vá até a mala;
 4. Pegue a mesma;
-5. Coloque em cima de uma superfície reta (como: cama, mesa);
-6. Abra a mala, e todos os partimentos que contém nela;
-7. Pegue todos as peças mais pesadas (toalha, casacos);
-   - Coloca no fundo da mala;
-8. Pegue todos os itens mais leves (peças íntimas, camisetas);
-   - Coloca por cima da mala;
-9. Nos outros partimentos, acrescenta os itens que sobraram;
+5. Coloque-a em cima de uma superfície plana, como uma cama ou mesa;
+6. Abra a mala e todos os compartimentos que ela contém;
+7. Coloque todas as peças mais pesadas, como toalhas e casacos, no fundo da mala;
+8. Coloque os itens mais leves, como peças íntimas e camisetas, por cima das peças mais pesadas;
+9. Nos outros compartimentos, coloque os itens que sobraram;
 10. Feche a mala.
 
 – Faça uma descrição narrativa para escovar os dentes.
 
 1. Vá até o banheiro;
 2. Pegue sua escova de dentes e o creme dental;
-3. Abra a pasta de dente; 
+3. Abra a pasta de dente;
 4. Adicione um pouco do produto nas cerdas da escova;
 5. Após, feche a pasta de dente;
-6. Abre a torneira;
+6. Abra a torneira;
 7. Molhe um pouco a escova com a pasta;
 8. Feche a torneira;
-9. Escove todos os dentes, com cuidado, fazendo movimentos circulares (para não machucar a gengiva);
-10. Abre a torneira;
-11. Ponha água na boca;
+9. Escove todos os dentes com cuidado, fazendo movimentos circulares para não machucar a gengiva;
+10. Abra a torneira;
+11. Encha a boca de água;
 12. Feche a torneira;
-13. Enxague os dentes, fazendo gargarejo;
-14. Logo, adicione mais um pouco de pasta;
-15. Abre a torneira;
+13. Enxágue os dentes fazendo gargarejo;
+14. Adicione mais um pouco de pasta;
+15. Abra a torneira;
 16. Molhe um pouco a escova com a pasta novamente;
 17. Feche a torneira;
 18. Escove a língua;
-19. Abre a torneira;
-20. Ponha água na boca;
+19. Abra a torneira;
+20. Encha a boca de água;
 21. Feche a torneira;
-22. Enxague os dentes, fazendo gargarejo;
-23. Pega uma toalha;
-24. Seca as mãos e a boca.
+22. Enxágue os dentes fazendo gargarejo;
+23. Pegue uma toalha;
+24. Seque as mãos e a boca.
 
 – Faça uma descrição narrativa para chegar até a escola.
 
@@ -145,4 +143,26 @@ DESCRIÇÃO NARRATIVAigue
 13. O pop-up anterior (Add local repository) aparecerá novamente, aperte no botão azul 'Add repository';
 14. Quando voltar para a página inicial do GitHub, escreva o título em 'Summary (required)' e a descrição em 'Description';
 15. Logo após, aperte no botão 'Commit to main';
-16. Em seguida, clique em 'Publish'
+16. Em seguida, clique em 'Publish repository' para publicar;
+17. Minimiza a página do GitHub Desktop;
+18. Entre no google;
+19. Digita GitHub;
+20. Entra no site do GitHub;
+21. Acesse sua conta;
+22. Vá ao se perfil;
+23. Clique em 'Repositories';
+24. E verifique se está lá.
+
+– Faça uma descrição narrativa para enviar um anexo numa atividade do classroom.
+
+1. Ao acessar o 'classroom' no navegador;
+2. Clique na classe em que deseja;
+3. Vá em 'Mural';
+4. Na parte publicadas, selecione a que quer adicionar seu anexo;
+5. Aperte no botão '+ Adicionar ou criar';
+6. Com as opções que surgir, vá em arquivos;
+7. Aperte no botão azul 'Procurar';
+8. Abrirá o explorador de arquivos, onde irá procurar seu anexos;
+9. Aperte em 'abrir';
+10. Logo após, surgirá em 'Seus trabalhos';
+11. Clique no botão azul 'Marcar como concluída'
